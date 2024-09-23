@@ -15,5 +15,3 @@ I'm Mohamed Khaled, a passionate Software Engineer and Teaching Assistant (TA) a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed khaled&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhaledmk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mohamedkhaledmk&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
