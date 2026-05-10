@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗
-████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗     ██╗  ██╗██╗  ██╗ █████╗ ██╗     ███████╗██████╗
+████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗    ██║ ██╔╝██║  ██║██╔══██╗██║     ██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║    █████╔╝ ███████║███████║██║     █████╗  ██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║    ██╔═██╗ ██╔══██║██╔══██║██║     ██╔══╝  ██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝    ██║  ██╗██║  ██║██║  ██║███████╗███████╗██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝
 ```
 
 ### Software Engineer · Full Stack · .NET & React
@@ -86,11 +86,7 @@ var Mohamed = new SoftwareEngineer
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohamedkhaledmk&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedkhaledmk&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohamedkhaledmk&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedkhaledmk&theme=tokyonight&hide_border=true)](https://github.com/mohamedkhaledmk)
 
 </div>
 
@@ -103,15 +99,13 @@ var Mohamed = new SoftwareEngineer
 | ⚔️ ECPC Contestant | Egyptian Collegiate Programming Contest — Alexandria, 2022 |
 | 🎓 Teaching Assistant | Mentored 14 graduation projects across MSA & MIU Universities |
 | 📜 DEPI Graduate | React Web Development Track — Ministry of Communications, Egypt |
-| 🏛️ ITI Trainee | Professional Development & BI-Infused CRM Track — Information Technology Institute, Smart Village |
+| 🏛️ ITI Trainee | BI & CRM Track — Information Technology Institute, Smart Village |
 
 ---
 
 <div align="center">
 
 *"Clean code is not written by following a set of rules. Clean code is written by a programmer who cares."*
-
-**— Robert C. Martin**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedkhaledmk&color=512BD4&style=for-the-badge&label=PROFILE+VIEWS)
 
