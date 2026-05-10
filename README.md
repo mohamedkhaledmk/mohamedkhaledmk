@@ -103,7 +103,7 @@ var Mohamed = new SoftwareEngineer
 | ⚔️ ECPC Contestant | Egyptian Collegiate Programming Contest — Alexandria, 2022 |
 | 🎓 Teaching Assistant | Mentored 14 graduation projects across MSA & MIU Universities |
 | 📜 DEPI Graduate | React Web Development Track — Ministry of Communications, Egypt |
-| 🏛️ ITI Trainee | BI & CRM Track — Information Technology Institute, Smart Village |
+| 🏛️ ITI Trainee | Professional Development & BI-Infused CRM Track — Information Technology Institute, Smart Village |
 
 ---
 
