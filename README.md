@@ -82,44 +82,15 @@ var Mohamed = new SoftwareEngineer
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 ETQAN Assessment Platform
-> Online assessment platform built for structured academic evaluation
-
-**Stack:** `React` `Next.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-
-[View Project →](https://github.com/mohamedkhaledmk)
-
----
-
-### 🏥 Doctor Appointment Booking Platform
-> End-to-end appointment management system for clinics
-
-**Stack:** `React.js` `Vite` `Tailwind CSS`
-
-[View Project →](https://github.com/mohamedkhaledmk)
-
----
-
-### 🌿 Rahaya Farm Website
-> Full-featured business website with dynamic content management
-
-**Stack:** `React.js` `Tailwind CSS` `Vite` `Node.js`
-
-[View Project →](https://github.com/mohamedkhaledmk)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedkhaledmk&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohamedkhaledmk&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedkhaledmk&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedkhaledmk&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhaledmk&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohamedkhaledmk&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -132,6 +103,7 @@ var Mohamed = new SoftwareEngineer
 | ⚔️ ECPC Contestant | Egyptian Collegiate Programming Contest — Alexandria, 2022 |
 | 🎓 Teaching Assistant | Mentored 14 graduation projects across MSA & MIU Universities |
 | 📜 DEPI Graduate | React Web Development Track — Ministry of Communications, Egypt |
+| 🏛️ ITI Trainee | BI & CRM Track — Information Technology Institute, Smart Village |
 
 ---
 
